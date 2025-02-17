@@ -146,7 +146,7 @@
   {
    "fieldname": "description",
    "fieldtype": "Small Text",
-   "label": "Reason"
+   "label": "Leave Justification"
   },
   {
    "fieldname": "section_break_7",
@@ -173,6 +173,7 @@
    "default": "Open",
    "fieldname": "status",
    "fieldtype": "Select",
+   "hidden": 1,
    "in_standard_filter": 1,
    "label": "Status",
    "no_copy": 1,
@@ -255,7 +256,7 @@
  "is_submittable": 1,
  "links": [],
  "max_attachments": 3,
- "modified": "2024-04-08 13:56:03.818019",
+ "modified": "2025-02-17 13:47:18.643282",
  "modified_by": "Administrator",
  "module": "HR",
  "name": "Leave Application",
