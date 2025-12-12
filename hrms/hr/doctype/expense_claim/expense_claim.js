@@ -256,7 +256,7 @@ frappe.ui.form.on("Expense Claim", {
 	},
 
 	employee_name: function (frm) {
-		erpnext.expense_claim.set_title(frm);
+		// erpnext.expense_claim.set_title(frm);
 	},
 
 	task: function (frm) {
